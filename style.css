@@ -144,7 +144,7 @@ span {
 /* Hero Section starts from here */
 
 .hero-section {
-    background-image: url("hero_image.jpg");
+    background-image: url("hero_image.webp");
     background-size: cover;
     height: 350px;
     display: flex;
